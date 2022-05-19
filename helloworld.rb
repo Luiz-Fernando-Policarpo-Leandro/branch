@@ -1,4 +1,4 @@
 loop do
-    x = 0+rand(100)
-    puts "hello world #{x}"
-break if x == 0;end
+    x = 1+rand(100)
+    puts "hello world, it's #{x} days a month in this contry"
+break if x == 1;end
