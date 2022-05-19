@@ -1,1 +1,2 @@
-puts "it can be called"
+x = "it can be called"
+puts x
